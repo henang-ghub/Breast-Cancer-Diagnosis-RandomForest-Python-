@@ -13,20 +13,17 @@ Build a machine learning model that:
 
 ## Dataset
 The dataset consists of 9 input features derived from cell analysis:
-
-Feature 	Description
-
-Clump Thickness	Cell layering structure
-
-1. Uniformity of Cell Size	-  Consistency in cell size
-2. Uniformity of Cell Shape	- Consistency in cell shape
-3. Marginal Adhesion	- Cell cohesion strength
-4. Single Epithelial Cell - Size	Size of epithelial cells
-5. Bare Nuclei	- Presence of exposed nuclei
-6. Bland Chromatin	- Uniformity of genetic material
-7. Normal Nucleoli	- Structure of nucleoli
-8. Mitoses	- Cell division rate
-9. Target Variable:
+1. Clump Thickness	Cell layering structure
+2. Uniformity of Cell Size	-  Consistency in cell size
+3. Uniformity of Cell Shape	- Consistency in cell shape
+4. Marginal Adhesion	- Cell cohesion strength
+5. Single Epithelial Cell - Size	Size of epithelial cells
+6. Bare Nuclei	- Presence of exposed nuclei
+7. Bland Chromatin	- Uniformity of genetic material
+8. Normal Nucleoli	- Structure of nucleoli
+9. Mitoses	- Cell division rate
+    
+**Target Variable:**
 -	Class → 0 (Benign), 1 (Malignant) 
 
 ## Tech 
